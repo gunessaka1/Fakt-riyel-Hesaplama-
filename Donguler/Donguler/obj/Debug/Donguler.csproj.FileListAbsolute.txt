@@ -1,0 +1,8 @@
+C:\Users\LENOVO\source\repos\Donguler\Donguler\bin\Debug\Donguler.exe.config
+C:\Users\LENOVO\source\repos\Donguler\Donguler\bin\Debug\Donguler.exe
+C:\Users\LENOVO\source\repos\Donguler\Donguler\bin\Debug\Donguler.pdb
+C:\Users\LENOVO\source\repos\Donguler\Donguler\obj\Debug\Donguler.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\Donguler\Donguler\obj\Debug\Donguler.csproj.SuggestedBindingRedirects.cache
+C:\Users\LENOVO\source\repos\Donguler\Donguler\obj\Debug\Donguler.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Donguler\Donguler\obj\Debug\Donguler.exe
+C:\Users\LENOVO\source\repos\Donguler\Donguler\obj\Debug\Donguler.pdb
