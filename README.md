@@ -1,6 +1,6 @@
 # Faktoriyel-Hesaplama-
 Faktöriyel Hesaplama Döngüler
-##Kullanıcıdan alınan sayının faktöriyel hesabını yapalım.
+## Kullanıcıdan alınan sayının faktöriyel hesabını yapalım.
 namespace Donguler
 {
     internal class Program
